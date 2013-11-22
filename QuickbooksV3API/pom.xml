@@ -53,8 +53,8 @@
 		
 		<dependency>
 			<groupId>org.openid4java</groupId>
-			<artifactId>openid4java-nodeps</artifactId>
-			<version>0.9.6</version>
+			<artifactId>openid4java</artifactId>
+			<version>0.9.8</version>
 		</dependency>
 
 		<dependency>
