@@ -12,3 +12,4 @@ mvn install:install-file -DgroupId=com.intuit.code.devkit.v3 -DartifactId=ipp-v3
 The "-Dversion=1.0.7" should be changed to the version of the jar.
 For example, it should be 2.3.2 for the latest version 2.3.2
 mvn install:install-file -DgroupId=com.intuit.code.devkit.v3 -DartifactId=ipp-v3-java-devkit -Dversion=2.3.2 -Dpackaging=jar -Dfile=JarFilePath\ipp-v3-java-devkit-2.3.2-jar-with-dependencies.jar
+3. user name is ippuser and password is password for http://localhost:8080/QuickBooksV3API/login.htm
